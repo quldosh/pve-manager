@@ -41,32 +41,10 @@ foreach my $km (sort keys %$keymaps) {
 
 my $defmap = {
    'us' => 'en-us',
-   'be' => 'fr-be',
-   'br' => 'pt-br',
-   'ca' => 'en-us',
-   'dk' => 'dk',
    'nl' => 'en-us', # most Dutch people us US layout
-   'fi' => 'fi',
    'fr' => 'fr',
    'de' => 'de',
-   'at' => 'de',
-   'hu' => 'hu',
-   'is' => 'is',
-   'it' => 'it',
-   'va' => 'it',
-   'jp' => 'jp',
-   'lt' => 'lt',
-   'mk' => 'mk',
-   'no' => 'no',
-   'pl' => 'pl',
-   'pt' => 'pt',
-   'si' => 'si',
-   'es' => 'es',
-   'gi' => 'es',
-   'ch' => 'de-ch',
-   'gb' => 'en-gb',
-   'lu' => 'fr-ch',
-   'li' => 'de-ch',
+
 };
 
 
